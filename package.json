@@ -1,0 +1,21 @@
+{
+  "name": "to-deploy",
+  "version": "0.0.0",
+  "description": "ToDeploy",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.14"
+  },
+  "dependencies": {
+    "@jimp/core": "^0.5.4",
+    "collections": "^5.1.5",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.0.0",
+    "extract-zip": "^1.6.7",
+    "jimp": "^0.5.6",
+    "qrcode-reader": "^1.0.4"
+  }
+}
